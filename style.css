@@ -43,3 +43,9 @@ body {
   li a:hover {
     background-color: #111;
   }
+  .wrapper{
+    Display:grid;
+    grid-auto-rows:minmax(100px, auto);
+    background:#eee;
+    
+  }
