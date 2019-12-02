@@ -1,0 +1,30 @@
+Vad ska användaren testa?
+    Användaren ska testa designen på sidorna.
+    Om texten är i rätt storlek (om det går att läsa lätt)
+    Om det går att förstå vad de olika sidorna handlar om
+    och om det går att läsa texten (format).
+
+
+Hur ska användaren testa?
+    Användaren ska ge kritik på det användaren ser.
+    Användaren navigerar sedan sida för sida utan instruktioner, 
+    tills de känner att de besökt alla sidor.
+
+Vad ska dokumenteras?
+    Det som kritiseras och
+    det användaren kom fram till på det som skulle testas
+    Om de lyckades navigera till alla sidor och om de förstod
+    vilken sida de var på oavsett vilken sida de var.
+
+Test:
+Användarens tankar
+Dokumentation:
+Första sidan var för tom, för lite bilder, 
+publiceringssystem var fel, 
+Alexander klarade av A och C betyg men glömde E, 
+hemsidor var ett dåligt namn för den sista sidan med tanke 
+på att allt handlar om hemsidor/webb.
+
+Det var bra att navbaren lyste upp när man hovrade över sidorna. 
+Textstorleken, padding och formatet var bra. 
+Grundläggande princip sidan var bra.
