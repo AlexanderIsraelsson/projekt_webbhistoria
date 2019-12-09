@@ -27,6 +27,14 @@ body {
   width: 65.65%; 
   }
   
+  .firstpage {
+    background-color: whitesmoke;
+    margin-left: 256px;
+    margin-right: 256px;
+    bottom: 0;
+    height: 98vh;
+    
+  }
   .container {
     background-color: whitesmoke;
     margin-left: 256px;
