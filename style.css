@@ -11,6 +11,8 @@ h3 {
   
  p {
   padding-left: 14px;
+  padding-right: 14px;
+  padding-bottom: 14px;
   font-size: 18px;
 }
 
@@ -41,6 +43,9 @@ body {
     margin-right: 256px;
     bottom: 0;
     
+  }
+  .picture {
+    text-align: center;
   }
   
 
