@@ -1,0 +1,74 @@
+Kronoligsk lista över det jag gjort. Jag kommer inte ihåg det jag gjort 
+exakt, så jag kommer främst att gissa. 1 = först 
+1. Projektplan
+    Det gick bra att organisera projektplan så att det var tydligt om
+    det som behövdes göras i de olika sidorna.
+    
+    Det som var svårast var att hitta informationen som behövdes för 
+    projektplanen
+    
+    Jag skulle ha kunnat varit lite tydligare. Tex vid viktiga
+    historiska händelser, så skulle jag kunnat ha skrivit lite om vad 
+    varje årtals viktigaste artikel (som jag valt) handlade om.
+
+2. Välja artiklar i internetmuseumet
+    Det gick bra att navigera bland artiklarna
+    
+    Det som var svårast var att välja den viktigaste artikel för varje
+    årtionden
+    
+    Jag skulle ha kunnat varit lite snabbare genom att första skumma 
+    igenom artiklarna och sedan gå in lite djupare på de som jag tyckte 
+    var viktigaste sedan istället för att läsa igenom alla artiklar.
+
+3. Startsida
+    Det gick bra att skriva rubriken välkommen och att lägga till bilden.
+   
+    Det som var svårast var att skriva texten som förklarar vad 
+    hemsidan är till för.
+    
+    Jag hade kunnat lagt till lite mer text eller javascript etc.
+    Enligt användartestet var sidan för tom så jag satte dit en bild 
+    och la dit mer text.
+
+4. Viktiga händelser
+    Det gick bra att kopiera text från internetmuseumet
+   
+    Det som var svårast/tog mest tid var att ta bort lägga till bra 
+    bilder för artiklarna.
+   
+    Jag hade kunnat utvecklat css mer eller/och lagt till javascript
+    
+    Viktiga händelser påverkades inte av användertestet.
+
+5. Publiceringssystem
+    Det gick bra att kopiera text från wikipedia.
+    
+    Det som var svårast var att förstå vad det var som jag skulle 
+    skriva om.
+   
+    Jag hade kunnat lagt till javascript för att tex gömma texten om 
+    Java och Perl och sedan visa den texten med hjälp av ett knapptryck.
+   
+    Användartestet sa mig att jag hade skrivit om fel sak på sidan 
+    publiceringssystem, så jag fixade det.
+
+6. Grundläggande principer
+    Det jag bra att kopiera texten och bilden.
+   
+    Det som var svårast var att lägga till bilden.
+
+    Jag skulle ha kunnat lagt till lite javascript.
+
+    Användartestet påverkade inte sidan grundläggande principer.
+
+7. Hemsidors historia
+    Det gick bra att kopiera in bilderna från waybackmachine.
+
+    Det som var svårast var att hitta passande bilder i waybackmachine.
+
+    Jag hade kunnat lagt till mer text (egna tankar) och javascript.
+
+    Användartestet gjorde så att jag bytte namn på sidan från Hemsidor
+    till Hemsidors historia och så fyllde jag i med mina egna tankar 
+    om varför hemsidorna ändrades såsom dem gjorde.
